@@ -23,6 +23,7 @@ public class Bad extends Common{
         Positioning();
     }
 
+    //////////////////
     //////////////////////////////same as in Strawberry
     private void Positioning() {
         x = random.nextInt(sizeX - bitmap.getWidth());
